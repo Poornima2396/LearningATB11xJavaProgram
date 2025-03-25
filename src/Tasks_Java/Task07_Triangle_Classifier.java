@@ -1,8 +1,6 @@
 package Tasks_Java;
 
-import java.util.Scanner;
-
-public class Task06_Triangle_Classifier {
+public class Task07_Triangle_Classifier {
     public static void main(String[] args) {
 
 //Triangle Classifier:

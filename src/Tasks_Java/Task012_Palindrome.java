@@ -5,5 +5,7 @@ public class Task012_Palindrome {
         //ex - madam --> madam - after reverse
         //naman - naman, malayalam - malayalam
 
+
+
     }
 }
